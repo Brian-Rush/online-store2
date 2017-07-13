@@ -1,0 +1,9 @@
+Codepen that shows how to upload images to firebase with angular:
+https://codepen.io/jealeat96/pen/mPBGbG
+
+angular4 and firebase tutorial from March
+https://www.youtube.com/watch?v=DH7yrSKKzIQ
+
+https://coursetro.com/posts/code/54/Angular-4-Firebase-Tutorial:-Make-a-Simple-Angular-4-App
+
+https://docs.angularjs.org/api/ng/directive/ngSubmit

@@ -8,5 +8,11 @@
 <label>New Album Description:</label>
 <input [(ngModel)]="selectedAlbum.description">
 <button (click)="beginUpdatingAlbum(selectedAlbum)">Update</button>
+
+<form ng-submit="uploadFile()">
+  <input type="file" name="file" class="input-img" id="image-input" accept="image/*">
+  <hr>
+
+</form>
 <hr>
 <button (click)="beginDeletingAlbum(selectedAlbum)">Delete</button>
